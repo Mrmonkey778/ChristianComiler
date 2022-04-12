@@ -1,0 +1,6 @@
+Index     Name  Type       value
+ 0,          n, I,    10
+ 1,          i, I,    11
+ 2,    product, I,    3628800
+ 3,          1, I,    1
+ 4,      $temp, I,    1

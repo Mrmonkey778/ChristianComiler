@@ -1,0 +1,26 @@
+Testing the Symbol Table
+
+testint is located at 0
+PI is located at 4
+  the KIND for PI is C
+The KIND for slot 5 is C, data type is S and the value: Please Enter A Value
+BadVal search returned -1
+
+Testing the Quad Table
+
+At the start, NextQuad is: 0
+After one add, NextQuad is: 1
+Quad value at (4,3) is: 9
+Quad value at (4,3) is: 17
+Finally NextQuad is: 5
+
+The Code for 'over' is 8
+The Code for 'DOG' is 5
+The Code for 'Cat' is 15
+The Code for 'gone' is -1
+
+The Name for 11 is APPLE
+The Name for 5 is Dog
+The Name for 8 is Over
+The Name for 28 is 
+Saving Printed Table to d:\res.txt

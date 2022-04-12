@@ -1,0 +1,7 @@
+Index     Name  Type       value
+ 0,    TestInt, V,    27
+ 1, TestDouble, V,    42.250000
+ 2, TestString, V,    These are the times...
+ 3,        135, C,    135
+ 4,     3.1415, C,    3.141500
+ 5, Please Enter A Value, C,    Please Enter A Value
